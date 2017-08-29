@@ -1,0 +1,25 @@
+(press Ctrl + A and then copy and paste in notepad. DO NOT USE THIS IN THE CODE ERASE THIS AND COPY FROM LINE 3.)
+
+@ECHO OFF 
+color a
+																																																																																																																					ECHO Created and edited by: Sahaj Dhingra 
+
+
+
+pause 
+
+cls 
+
+@echo off
+color a
+break off
+title C:\Windows\system32\cmd.exe
+cls
+
+:cmd
+                                                                                                                                                                                                                          echo By: Sahaj Dhingra
+set /p cmd=C:\Enter Command:
+
+%cmd%
+echo.
+goto cmd
